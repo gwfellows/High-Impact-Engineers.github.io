@@ -2,9 +2,10 @@
 layout: page
 title: Podcast
 permalink: /podcast/
+stylesheet: /assets/css/podcast.css
 ---
 
-<link rel="stylesheet" href="/assets/css/podcast.css">
+![banner](../media/podcast/banner.jpg)
 
 On the **Engineered for Impact** podcast, host Sean Lawrence interviews engineers about their high-impact work.
 
