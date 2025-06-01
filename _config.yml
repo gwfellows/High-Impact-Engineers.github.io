@@ -9,6 +9,6 @@ plugins:
 header_pages:
   - pages/causes.md
   - pages/career.md
-  - pages/blog.md
+  - pages/podcast.md
   - pages/archive.md
   - pages/about.md
