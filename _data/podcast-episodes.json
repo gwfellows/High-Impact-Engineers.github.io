@@ -1,0 +1,18 @@
+{
+    "episodes": [
+        {
+            "number": "000",
+            "title": "What is Engineered for Impact?",
+            "description": "Sean Lawrence is a co-founder of High Impact Engineers and the host of the Engineered for Impact podcast. This is a brief introductory episode outlining the motivations and goals for the podcast.",
+            "thumbnail": "/media/podcast/episodes/000.png",
+            "youtube_url": "https://youtu.be/UXINi-9_BaA?si=6IQW5rgkfDSRv44V"
+        },
+        {
+            "number": "001",
+            "title": "High Impact Engineers with Jessica Wen",
+            "description": "Jessica Wen is a co-founder of High Impact Engineers. We discuss how she came to start High Impact Engineers, the programs the organisation runs, and how effective altruism has informed the strategic direction of the organisation.",
+            "thumbnail": "/media/podcast/episodes/001.png",
+            "youtube_url": "https://youtu.be/D72iS1wxb_Y?si=Y98_eZOZoGOH4gQ-"
+        }
+    ]
+}

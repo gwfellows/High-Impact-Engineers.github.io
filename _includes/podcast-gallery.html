@@ -1,14 +1,13 @@
 <div class="podcast-gallery">
+    {% for episode in site.data.podcast-episodes.episodes %}
     <div class="podcast-card">
-        <img class="podcast-thumbnail" src="/media/podcast/episodes/000.png"
-            alt="#000 - What is Engineered for Impact? ">
+        <img class="podcast-thumbnail" src="{{ episode.thumbnail }}" alt="#{{ episode.number }} - {{ episode.title }}">
         <div class="podcast-info">
-            <a href="https://youtu.be/UXINi-9_BaA?si=6IQW5rgkfDSRv44V" target="_blank" rel="noopener noreferrer">
-                <h3 class="podcast-title">#000 - What is Engineered for Impact?</h3>
+            <a href="{{ episode.youtube_url }}" target="_blank" rel="noopener noreferrer">
+                <h3 class="podcast-title">#{{ episode.number }} - {{ episode.title }}</h3>
             </a>
-            <p class="podcast-description">Sean Lawrence is a co-founder of High Impact Engineers and the host of the
-                Engineered for Impact podcast. This is a brief introductory episode outlining the motivations and goals
-                for the podcast.</p>
+            <p class="podcast-description">{{ episode.description }}</p>
         </div>
     </div>
+    {% endfor %}
 </div>
