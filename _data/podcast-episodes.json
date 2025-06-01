@@ -1,11 +1,109 @@
 {
     "episodes": [
         {
-            "number": "000",
-            "title": "What is Engineered for Impact?",
-            "description": "Sean Lawrence is a co-founder of High Impact Engineers and the host of the Engineered for Impact podcast. This is a brief introductory episode outlining the motivations and goals for the podcast.",
-            "thumbnail": "/media/podcast/episodes/000.png",
-            "youtube_url": "https://youtu.be/UXINi-9_BaA?si=6IQW5rgkfDSRv44V"
+            "number": "016",
+            "title": "Nuclear Security and Policy with Matthew Gentzel",
+            "description": "Matthew Gentzel is Co-Lead of Longview Philanthropy's Nuclear Weapons Policy program. We discuss a wide range of topics, including Matthew’s career journey, the benefits of diverse teams in policy, nuclear security, and Longview Philanthropy's key grantmaking areas.",
+            "thumbnail": "/media/podcast/episodes/016.png",
+            "youtube_url": "https://www.youtube.com/watch?v=kDAPAUggs8c"
+        },
+        {
+            "number": "015",
+            "title": "Improving Indoor Air Quality with Gavriel Kleinwaks",
+            "description": "Gavriel Kleinwaks discusses her recent work on improving indoor air quality to reduce pathogen transmission. Listeners will learn about interventions such as HVAC, filtration, and UVC sterilisation, and how engineers can contribute to the field. ",
+            "thumbnail": "/media/podcast/episodes/015.png",
+            "youtube_url": "https://www.youtube.com/watch?v=N8jaPxM4QGU"
+        },
+        {
+            "number": "014",
+            "title": "Chemical engineering to oat-based cheese with Sarah Qian",
+            "description": "Sarah Qian started an oat-based cream cheese company. We discuss the challenges she faced in scaling up operations, advice for other engineers interested in startups, and how engineers can contribute to solving challenges in food systems change.",
+            "thumbnail": "/media/podcast/episodes/014.png",
+            "youtube_url": "https://www.youtube.com/watch?v=PatVUAn1_Z4"
+        },
+        {
+            "number": "013",
+            "title": "Engineering for Nuclear Security with Cameron Tracy",
+            "description": "Cameron Tracy, a research scholar at the Standford Center for International Security and Cooperation, discusses his engineering-related research on topics related to nuclear security and nuclear arms control. Learn about the role of academia in international and nuclear security, ethical considerations for engineers in the weapons and defence space, and how engineers from all disciplines can contribute to the field.",
+            "thumbnail": "/media/podcast/episodes/013.png",
+            "youtube_url": "https://www.youtube.com/watch?v=w-wInL6KcR8"
+        },
+        {
+            "number": "012",
+            "title": "Biosafety consulting on public policy with Ryan Ritterson",
+            "description": "Ryan, Executive Vice President of Research and a Partner at Gryphon Scientific, discusses how engineers and technologists contribute to effective and evidence-based government policy. He shares his journey from studying computational engineering science to life-science research and the policy implications of life-science research.",
+            "thumbnail": "/media/podcast/episodes/012.png",
+            "youtube_url": "https://www.youtube.com/watch?v=NSh8BtXMXHw"
+        },
+        {
+            "number": "011",
+            "title": "Networking for career change with Sean Lawrence",
+            "description": "Sean discusses how networking can be a useful tool in the career change process. He covers motivations for networking, how to get the most value out of networking, and actionable tips for setting up meetings and getting the most out of them.",
+            "thumbnail": "/media/podcast/episodes/011.png",
+            "youtube_url": "https://www.youtube.com/watch?v=XH7SD9R1rmo"
+        },
+        {
+            "number": "010",
+            "title": "Effective climate giving with Emily Thai",
+            "description": "Emily discusses her work at Giving Green and their approach to driving high-impact climate donations. We discuss some mistakes people make when donating to climate change, reconciling your identities as an engineer with having impact, and decarbonising heavy industry with deep-tech R&D.",
+            "thumbnail": "/media/podcast/episodes/010.png",
+            "youtube_url": "https://www.youtube.com/watch?v=8_SsitP6DsQ"
+        },
+        {
+            "number": "009",
+            "title": "Far-UVC for clean indoor air with Vivian Belenky",
+            "description": "Vivian discusses the use of far-UVC technology to reduce the transmission of pathogens in indoor environments. The conversation covers the current state of the technology, safety considerations, and pathways to reducing its cost. Engineers interested in promoting the widespread adoption of far-UVC technology will find valuable insights in this episode.",
+            "thumbnail": "/media/podcast/episodes/009.png",
+            "youtube_url": "https://www.youtube.com/watch?v=hogSXD2zYC4"
+        },
+        {
+            "number": "008",
+            "title": "Resilient foods to feed humanity in disasters with Juan García Martínez ",
+            "description": "Juan is a chemical engineer and the Research Manager at the Alliance to Feed Earth in Disasters (ALLFED). We discuss resilient foods, single-cell proteins, government catastrophic risk preparedness, and how engineers can contribute to civilisation resilience.",
+            "thumbnail": "/media/podcast/episodes/008.png",
+            "youtube_url": "https://www.youtube.com/watch?v=g6ccCW1lr50"
+        },
+        {
+            "number": "007",
+            "title": "AI compute governance with Lennart Heim",
+            "description": "Lennart has a background in electrical engineering and is a Research Fellow at the Centre for the Governance of AI. We discuss the use of computational resources as a governance mechanism for the safe development of artificial intelligence and how engineers can contribute to the AI governance field.",
+            "thumbnail": "/media/podcast/episodes/007.png",
+            "youtube_url": "https://www.youtube.com/watch?v=yK5odT1jz-U"
+        },
+        {
+            "number": "006",
+            "title": "Academic research in cultivated meat with Rachael Floreani",
+            "description": "Rachael is an Associate Professor at the University of Vermont in the Departments of Mechanical Engineering, Electrical and Biomedical Engineering, and Food Systems. We discuss academic research in cultivated meat, the value of engineers understanding business concepts, work-life balance, and advice for entering academia.",
+            "thumbnail": "/media/podcast/episodes/006.png",
+            "youtube_url": "https://www.youtube.com/watch?v=e8qIjwH7_tc"
+        },
+        {
+            "number": "005",
+            "title": "High Impact Professionals with Federico Speziali",
+            "description": "Federico Speziali is the Co-founder of High Impact Professionals. We discuss how working professionals can increase their impact through donations, using their skills, or promoting impactful initiatives in the workplace.",
+            "thumbnail": "/media/podcast/episodes/005.png",
+            "youtube_url": "https://youtu.be/A_KcxTN4l84"
+        },
+        {
+            "number": "004",
+            "title": "Social enterprises in Sub-Saharan Africa with Arno Rohwedder ",
+            "description": "Arno Rohwedder is a social entrepreneur working in the agricultural sector in rural Tanzania. We discuss his inspiration for becoming a social entrepreneur, the challenges faced by social enterprises in Sub-Saharan Africa, and the difficulty of measuring impact.",
+            "thumbnail": "/media/podcast/episodes/004.png",
+            "youtube_url": "https://youtu.be/1vT0lCw0crQ?si=5GqB4ndH8oOo-ymb"
+        },
+        {
+            "number": "003",
+            "title": "Transitioning to a higher-impact career with Soroush Pour",
+            "description": "Soroush Pour is an engineer and entrepreneur who, at the time of this recording, is on sabbatical from his role as head of Special Projects at Vow to investigate the safe and beneficial development of artificial general intelligence. We discuss the psychology and methods he employed in a year-long period of independent research in which he transitioned from the world of fintech to cultivated meat.",
+            "thumbnail": "/media/podcast/episodes/003.png",
+            "youtube_url": "https://youtu.be/WpWX9S4p6r8?si=McHtoMTXEq4UMQIc"
+        },
+        {
+            "number": "002",
+            "title": "Alternative proteins with Jeffray Behr",
+            "description": "Jeffray is a Food Process engineer at New School Foods and a passionate advocate for the alternative protein industry. We discuss his journey from undergraduate mechanical engineering to working in the alternative protein industry and his advice for others interested in a similar path.",
+            "thumbnail": "/media/podcast/episodes/002.png",
+            "youtube_url": "https://www.youtube.com/watch?v=A_KcxTN4l84&pp=0gcJCbAJAYcqIYzv"
         },
         {
             "number": "001",
@@ -13,6 +111,13 @@
             "description": "Jessica Wen is a co-founder of High Impact Engineers. We discuss how she came to start High Impact Engineers, the programs the organisation runs, and how effective altruism has informed the strategic direction of the organisation.",
             "thumbnail": "/media/podcast/episodes/001.png",
             "youtube_url": "https://youtu.be/D72iS1wxb_Y?si=Y98_eZOZoGOH4gQ-"
+        },
+        {
+            "number": "000",
+            "title": "What is Engineered for Impact?",
+            "description": "Sean Lawrence is a co-founder of High Impact Engineers and the host of the Engineered for Impact podcast. This is a brief introductory episode outlining the motivations and goals for the podcast.",
+            "thumbnail": "/media/podcast/episodes/000.png",
+            "youtube_url": "https://youtu.be/UXINi-9_BaA?si=6IQW5rgkfDSRv44V"
         }
     ]
 }
