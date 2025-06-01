@@ -21,21 +21,29 @@ This website is based on the original website. It was built by [Amanda Matthes](
 
 ## local dev setup
 
+Install Ruby (and the development kit).
+
 Once, run:
 
-```
+``` bash
 gem i bundler first
+```
+
+To install missing gems, run:
+
+``` bash
+bundle install
 ```
 
 To build the website locally, run:
 
-```
+``` bash
 bundle exec jekyll serve
 ```
 
 The website should then be accessible at:
 
-```
+``` bash
 http://localhost:4000/
 ```
 
