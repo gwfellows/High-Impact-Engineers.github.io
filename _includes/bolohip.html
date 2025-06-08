@@ -1,12 +1,41 @@
-{% assign bolohip_pages = site.pages | where: "layout", "page" | where_exp: "page", "page.path contains
+{% assign bolohip_pages = site.pages | where: "layout", "bolohip-project" | where_exp: "page", "page.path contains
 'pages/bolohip/'" | sort: "path" %}
 
 <link rel="stylesheet" href="{{ '/assets/css/bolohip.css' | relative_url }}">
 
-<div class="bolohip-gallery">
+<div class="bolohip-filters">
+    <div class="search-box">
+        <input type="text" id="projectSearch" placeholder="Search projects..." onkeyup="filterProjects()">
+    </div>
+    <div class="status-filters">
+        <label>Filter by status:</label>
+        <select id="statusFilter" onchange="filterProjects()">
+            <option value="">all</option>
+            {% assign statuses = bolohip_pages | map: "status" | uniq | sort %}
+            {% for status in statuses %}
+            <option value="{{ status }}">{{ status }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="cause-area-filters">
+        <label>Filter by cause area:</label>
+        <div class="checkbox-container">
+            {% assign all_cause_areas = bolohip_pages | map: "cause_areas" | compact | uniq | sort %}
+            {% for cause_area in all_cause_areas %}
+            <label class="checkbox-label">
+                <input type="checkbox" class="cause-area-checkbox" value="{{ cause_area }}">
+                <span>{{ cause_area | replace: "-", " " }}</span>
+            </label>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="bolohip-gallery" id="projectGallery">
     {% for page in bolohip_pages %}
     {% assign page_id = page.permalink | remove: '/' | remove: '.html' %}
-    <div class="bolohip-item">
+    <div class="bolohip-item" data-status="{{ page.status }}" data-title="{{ page.title | downcase }}"
+        data-description="{{ page.description | downcase }}" data-cause-areas="{{ page.cause_areas | join: ' ' }}">
         <a href="{{ page.url | relative_url }}" class="bolohip-link">
             <div class="bolohip-banner">
                 <img src="{{ '/media/bolohip/projects/' | append: page_id | append: '/banner.png' | relative_url }}"
@@ -15,11 +44,20 @@
             <h3>{{ page.title }}</h3>
         </a>
         {% if page.status %}
-        <p>Status: {{ page.status }}</p>
+        <p class="status">status: {{ page.status }}</p>
         {% endif %}
         {% if page.description %}
         <p>{{ page.description }}</p>
         {% endif %}
+        {% if page.cause_areas %}
+        <div class="tags">
+            {% for tag in page.cause_areas %}
+            <span class="tag">{{ tag | replace: "-", " " }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
     </div>
     {% endfor %}
 </div>
+
+<script src="{{ '/assets/js/bolohip-filters.js' | relative_url }}"></script>
