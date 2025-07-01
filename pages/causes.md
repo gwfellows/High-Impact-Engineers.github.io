@@ -6,6 +6,7 @@ permalink: /causes/
 
 There are lots of different ways engineers can do good in the world. Here are resource articles on what might be the most important problems to solve.
 
+- [Global health](./causes/global_health.md)
+- [Helping farmed animals](./causes/farmed_animals.md)
 - [Preventing AI catastrophes](./causes/ai.md)
-
-If you are feeling unsure about what to focus on with your career, consider getting in touch for a career conversation with us.
+- [Preventing nuclear war](./causes/nuclear_war.md)
