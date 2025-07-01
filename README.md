@@ -28,13 +28,12 @@ Have a suggestion? [Open an issue](https://github.com/High-Impact-Engineers/High
 If you want to add a new project to our big old list of high impact projects, you can make a pull request! Here is what you need to do:
 
 - follow the setup instructions below to get the website running locally
-- make a new branch for your changes
 - create a new markdown file in the `pages/bolohip` folder
 - use the same format as the other files in the folder (you can use the [template](./000-bolohip-entry-template.md) as a starting point) and update the properties at the top
 - add a 2:1 aspect ratio `.png` banner image to the `media/bolohip/projects` folder and give it the same name as the markdown file
 - verify that the project shows up properly on the BOLOHIP page
 - commit your changes
-- make a pull request from your branch into `main`
+- make a pull request
 
 If that seems like too much work (or if you don't feel confident with using git), you can also just [create an Issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues) and use the label `new bolohip entry`. It just might take a while for someone to get to it.
 
