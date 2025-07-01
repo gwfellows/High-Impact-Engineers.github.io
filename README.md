@@ -1,6 +1,6 @@
 # High Impact Engineers
 
-🚧 under construction as of December 2024 🚧
+🚧 under construction as of July 2025 🚧
 
 ## about
 
@@ -15,9 +15,34 @@ In 2024 High Impact Engineers lost continuous funding. As a result it is now [co
 
 ## contributing
 
+### bugs
+
 Found a bug? [Open an issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues).
 
-This website is based on the original website. It was built by [Amanda Matthes](https://amanda-matthes.github.io/). If you want to contribute, shoot them a message.
+### suggestions
+
+Have a suggestion? [Open an issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues).
+
+### BOLOHIP
+
+If you want to add a new project to our big old list of high impact projects, you can make a pull request! Here is what you need to do:
+
+- follow the setup instructions below to get the website running locally
+- make a new branch for your changes
+- create a new markdown file in the `pages/bolohip` folder
+- use the same format as the other files in the folder (e.g. `001-bolohip.md`) and update the properties at the top
+- add a `.png` banner image to the `media/bolohip/projects` folder and give it the same name as the markdown file
+- verify that the project shows up properly on the BOLOHIP page
+- commit your changes
+- make a pull request from your branch into `main`
+
+If that seems like too much work (or if you don't feel confident with using git), you can also just [create an Issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues) and use the label `new bolohip entry`. It just might take a while for someone to get to it.
+
+Here are the status tags we use at the moment:
+
+- `does not exist`: no one has made a prototype yet
+- `prototype`: someone made a prototype, but that's it!
+- `exists - potential for improvement`: the project exists, but there might be room for improvement
 
 ## local dev setup
 
