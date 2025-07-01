@@ -3,4 +3,6 @@ layout: home
 title: High Impact Engineers
 ---
 
-🚧 under construction 🚧
+Helping engineers do high impact work.
+
+🚧 this page is under construction 🚧
