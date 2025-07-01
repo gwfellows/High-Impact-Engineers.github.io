@@ -18,4 +18,4 @@ Check out our [podcast](https://high-impact-engineers.github.io/podcast/) for in
 
 ## Got a specific question or want to talk to someone about your career?
 
-You can join the `role-physical-engineers` channel on the [EA Anywhere Slack workspace](https://join.slack.com/t/eavirtualmeetupgroup/shared_invite/zt-nnm9fyfp-kPS1R98d~SW5soPRcfegoQ). If you share your question there and someone might be happy to chat! High Impact Engineers is currently not funded, so sadly we can't guarantee that someone will have time.
+You can join the `role-physical-engineers` channel on the [EA Anywhere Slack workspace](https://join.slack.com/t/eavirtualmeetupgroup/shared_invite/zt-nnm9fyfp-kPS1R98d~SW5soPRcfegoQ). If you share your question there someone might be happy to chat! High Impact Engineers is currently not funded, so sadly we can't guarantee that someone will have time.
