@@ -6,12 +6,16 @@ permalink: /contribute/
 
 Do you love High Impact Engineers and want to make it better? Here are some ways you can help!
 
+## Be active in the community
+
+Join our [High Impact Engineers community](https://github.com/orgs/High-Impact-Engineers/discussions). Share your thoughts on existing discussions, or create a new one!
+
 ## Improve the website
 
 This site has lots of room for improvement! You could
 
 - update out-of-date articles (on cause areas, project ideas, or anything else)
-- add a [BOLOHIP](./bolohip) entry
+<!-- - add a [BOLOHIP](./bolohip) entry -->
 - fix typos
 - suggest some nice design elements (logos, banners, colour schemes, etc.)
 - improve the codebase (e.g. suggest CI/CD workflows)

@@ -7,10 +7,10 @@ url: "https://high-impact-engineers.github.io/"
 theme: minima
 plugins:
 header_pages:
+  - pages/community.md
   - pages/career.md
   # - pages/causes.md
   - pages/podcast.md
-  - pages/bolohip.md
+  # - pages/bolohip.md
   - pages/contribute.md
-  - pages/community.md
   - pages/about.md

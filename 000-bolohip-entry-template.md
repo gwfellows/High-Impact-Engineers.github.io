@@ -1,9 +1,10 @@
 ---
 layout: bolohip-project
-title: TITLE
+title: The title
 permalink: /000-name-with-hyphens/
 description: This is a short description.
 status: status tag (e.g. prototype, exists - potential for improvement, exists - no potential for improvement, does not exist)
+authors: Your Name, Other Author
 cause_areas:
     - cause area 1
     - cause area 2

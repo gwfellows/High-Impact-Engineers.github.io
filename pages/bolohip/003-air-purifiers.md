@@ -1,6 +1,6 @@
 ---
 layout: bolohip-project
-title: air purifiers
+title: Air purifiers
 permalink: /003-air-purifiers/
 description: Indoor air quality is a big problem.
 status: exists - potential for improvement
