@@ -4,11 +4,11 @@ title: Career
 permalink: /career/
 ---
 
-You will probably spend about 80,000 hours working. That makes your career one of the biggest ways you can have a positive impact.
+You will probably spend about 80,000 hours working. That makes your career one of the biggest ways you can have a positive impact. So you should probably spend a lot of time thinking about your career if you care about your impact!
 
 ## Conversations with engineers
 
-Check out our [podcast](https://high-impact-engineers.github.io/podcast/) for interviews with engineers working on nuclear security, pandemic preparedness, animal welfare, and more!
+Check out our [podcast](./podcast.md) for interviews with engineers working on nuclear security, pandemic preparedness, animal welfare, and more!
 
 ## Other resources to check out
 
@@ -18,4 +18,4 @@ Check out our [podcast](https://high-impact-engineers.github.io/podcast/) for in
 
 ## Got a specific question or want to talk to someone about your career?
 
-You can join the `role-physical-engineers` channel on the [EA Anywhere Slack workspace](https://join.slack.com/t/eavirtualmeetupgroup/shared_invite/zt-nnm9fyfp-kPS1R98d~SW5soPRcfegoQ). If you share your question there someone might be happy to chat! High Impact Engineers is currently not funded, so sadly we can't guarantee that someone will have time.
+Check out our [community](./community.md) and start a discussion thread! Someone might be able to point you to some resources and maybe offer a 1-1 chat! High Impact Engineers is currently not funded, so sadly we can't guarantee that someone will have time.
