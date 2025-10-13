@@ -9,22 +9,20 @@ cause_areas:
     - cause area 2
 ---
 
-## intro
-
 This is a short intro.
 
-## why it might be a great idea
+## Why it might be a great idea
 
 This is a short explanation of why this is a great idea.
 
-## why it might not be a good idea
+## Why it might not be a good idea
 
 This is a short explanation of why this is not a great idea.
 
-## how you could contribute
+## How you could contribute
 
 This is an explanation of how you could contribute.
 
-## other resources to check out
+## Other resources to check out
 
 This is a list of other resources to check out.

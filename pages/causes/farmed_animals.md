@@ -12,6 +12,7 @@ authors: Amanda Matthes
 Humans are outnumbered by non-human animals in factory farms.
 
 ## How engineers can help
+
 Most effective charities in the animal welfare space are focused on...
 
 ## Resources to check out
