@@ -1,7 +1,5 @@
 # High Impact Engineers
 
-🚧 under construction as of July 2025 🚧
-
 ## about
 
 This is the repo for the [High Impact Engineers website](https://high-impact-engineers.github.io/).
