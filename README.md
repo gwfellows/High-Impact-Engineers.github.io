@@ -15,15 +15,33 @@ In 2024 High Impact Engineers lost continuous funding. As a result it is now [co
 
 ## contributing
 
-### bugs
+### developing
+
+#### I really want to help maintain and build the website (but this maybe all seems a bit scary)
+
+If you're not sure what you're doing (or just want an intro to the codebase), you can reach out to an active contributor for an onboarding call. We're happy to help you get started with contributing (if we have time)! You don't need previous coding experience, although it obviously helps.
+
+If this README makes sense to you and you feel confident in what you're doing, you can just go ahead and make pull requests.
+
+#### making pull requests
+
+If you want to do a one-off change, you can just fork this repo, make the change, then [open a pull request](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/pulls).
+
+If you want to become a regular contributor, you can ask to be added to the [website team](https://github.com/orgs/High-Impact-Engineers/teams/website-contributors). I recommend that you first make a few pull requests (can be as simple as fixing typos or broken links) from forks. That makes it more likely you'll be trusted with access to the main repo.
+
+### report bugs
 
 Found a bug? [Open an issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues).
 
-### suggestions
+See above for what to do if you want to fix the bug yourself.
+
+### make suggestions
 
 Have a suggestion? [Open an issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues).
 
-### BOLOHIP
+See above for what to do if you want to implement the feature yourself.
+
+### contribute to BOLOHIP
 
 If you want to add a new project to our big old list of high impact projects, you can make a pull request! Here is what you need to do:
 
@@ -34,6 +52,8 @@ If you want to add a new project to our big old list of high impact projects, yo
 - verify that the project shows up properly on the BOLOHIP page
 - commit your changes
 - make a pull request
+
+You can also make pull requests to existing pages to improve them.
 
 If that seems like too much work (or if you don't feel confident with using git), you can also just [create an Issue](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io/issues) and use the label `new bolohip entry`. It just might take a while for someone to get to it.
 
