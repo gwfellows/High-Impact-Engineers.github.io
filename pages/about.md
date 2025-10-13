@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-High Impact Engineers is currently volunteer-run and has no funding.
+High Impact Engineers was originally started by Jessica Wen and Sean Lawrence. It was founded in 2022. In 2024, the organisation lost funding.
 
-You can make pull requests to this website [on GitHub](https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io). If you have an idea for a bigger contribution, you can start a discussion there, too.
+High Impact Engineers is now completely volunteer-run and has no funding.
+
+This website was built and is currently maintained by [Amanda Matthes](https://amanda-matthes.github.io/). Please help me change that by [contributing](./contribute.md) yourself! I would love to onboard more maintainers. But I am grateful for any tiny pull requests and issue.
