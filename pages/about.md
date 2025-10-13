@@ -8,4 +8,4 @@ High Impact Engineers was originally started by Jessica Wen and Sean Lawrence. I
 
 High Impact Engineers is now completely volunteer-run and has no funding.
 
-This website was built and is currently maintained by [Amanda Matthes](https://amanda-matthes.github.io/). Please help me change that by [contributing](./contribute.md) yourself! I would love to onboard more maintainers. But I am grateful for any tiny pull requests and issue.
+This website was built and is currently maintained by [Amanda Matthes](https://amanda-matthes.github.io/). Please help me change that by [contributing](./contribute.md) yourself! I would love to onboard more maintainers. But I am grateful for any tiny pull request and issue.
