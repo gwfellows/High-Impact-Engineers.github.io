@@ -7,4 +7,18 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+{% if page.authors %}
+<p>
+    Authors: {{page.authors}}
+</p>
+{% endif %}
+
 {{ content }}
+
+<hr>
+<br>
+<p>
+    These pages are written by volunteers. You can improve them by contributing <a
+        href="https://github.com/High-Impact-Engineers/High-Impact-Engineers.github.io">on GitHub</a>. Check out the
+    README for details.
+</p>
