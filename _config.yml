@@ -9,7 +9,7 @@ plugins:
 header_pages:
   - pages/community.md
   - pages/career.md
-  # - pages/causes.md
+  - pages/causes.md
   - pages/podcast.md
   # - pages/bolohip.md
   - pages/contribute.md

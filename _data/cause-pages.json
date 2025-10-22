@@ -1,0 +1,34 @@
+{
+    "pages": [
+        {
+            "title": "Helping Farmed Animals",
+            "description": "Humans are outnumbered by non-human animals in factory farms.",
+            "thumbnail": "/media/causes/farmed_animals.jpg",
+            "link": "farmed_animals"
+        },
+        {
+            "title": "Preventing AI Catastrophes",
+            "description": "Computers are scary",
+            "thumbnail": "/media/causes/ai.jpg",
+            "link": "ai"
+        },
+        {
+            "title": "Preparing for Pandemics",
+            "description": "etcetera",
+            "thumbnail": "/media/causes/pandemics.jpg",
+            "link": "pandemics"
+        },
+        {
+            "title": "Global Health",
+            "description": "Humans on Earth face many health challenges. However, some of the most wide-spread sources of suffering and death are easily prevented or treated. Many cost-effective charities focus on delivering these interventions.",
+            "thumbnail": "/media/causes/global_health.jpg",
+            "link": "global_health"
+        },
+        {
+            "title": "Nuclear War",
+            "description": "Humans on Earth face many health challenges. However, some of the most wide-spread sources of suffering and death are easily prevented or treated. Many cost-effective charities focus on delivering these interventions.",
+            "thumbnail": "/media/causes/nuclear_war.jpg",
+            "link": "nuclear_war"
+        }
+    ]
+}
