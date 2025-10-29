@@ -9,12 +9,12 @@ authors: Amanda Matthes, Grant Fellows
 
 ## Introduction
 
-Pandemics can cause substantial suffering and death. A sufficiently deadly and hard to detect or stop that it could decimate civilization. [Engineered pandemics](https://80000hours.org/problem-profiles/artificial-intelligence/#catastrophic-ai-misuse) are a growing risk as biotech tools become more accessible.
+Pandemics can cause substantial suffering and death. A sufficiently deadly pandemic could decimate civilization. [Engineered pandemics](https://80000hours.org/problem-profiles/artificial-intelligence/#catastrophic-ai-misuse) are a growing risk as biotech tools become more accessible.
 
 ## How engineers can help
 Engineers can help build and deploy low-cost personal protective equipment (PPE) to arrest the spread of new diseases.
 
-They also can help build technologies to reduce transmission in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/).
+They also can help build and deploy technologies to reduce transmission in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/).
 
 Other avenues include the surveillance of new diseases, applying [tools such as metagenomics](https://www.nature.com/articles/s41579-025-01223-5) to scan clinical, environmental, and wastewater samples, enabling the detection of unknown or emerging viral threats, and informing outbreak investigations.
 
