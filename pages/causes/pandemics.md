@@ -2,19 +2,23 @@
 layout: page
 title: Preparing for pandemics
 permalink: /causes/pandemics/
-authors: Amanda Matthes
+authors: Amanda Matthes, Grant Fellows
 ---
 
 🚧 under construction 🚧
 
 ## Introduction
 
-Pandemics can cause substantial suffering and death. It is even plausible that a pandemic could be sufficiently deadly and hard to detect or stop that it could cause human extinction.
+Pandemics can cause substantial suffering and death. A sufficiently deadly and hard to detect or stop that it could decimate civilization. [Engineered pandemics](https://80000hours.org/problem-profiles/artificial-intelligence/#catastrophic-ai-misuse) are a growing risk as biotech tools become more accessible.
 
 ## How engineers can help
-Engineers can help build and deploy personal protective equipment (PPE) to arrest the spread of new diseases.
+Engineers can help build and deploy low-cost personal protective equipment (PPE) to arrest the spread of new diseases.
 
-They also can help build technologies to reduce transmission in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/)
+They also can help build technologies to reduce transmission in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/).
+
+Other avenues include the surveillance of new diseases, applying [tools such as metagenomics](https://www.nature.com/articles/s41579-025-01223-5) to scan clinical, environmental, and wastewater samples, enabling the detection of unknown or emerging viral threats, and informing outbreak investigations.
+
+Engineers can also assist in accelerating the development of new vaccines and treatments.
 
 ## Resources to check out
 
@@ -22,4 +26,6 @@ They also can help build technologies to reduce transmission in indoor spaces, s
 
 [Why biosecurity needs engineers and materials scientists](https://forum.effectivealtruism.org/posts/Bd7K4XCg4BGEaSetp/biosecurity-needs-engineers-and-materials-scientists)
 
-[The Nucleic Acid Observatory, an organization working on new disease surveillance methods](https://naobservatory.org/)
+[The Nucleic Acid Observatory](https://naobservatory.org/), an organization working on new disease surveillance methods
+
+[CEPI's 100 Days Mission](https://cepi.net/100-days), a global goal for rapid vaccine development
