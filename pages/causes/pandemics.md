@@ -14,7 +14,7 @@ Pandemics can cause substantial suffering and death. It is even plausible that a
 ## How engineers can help
 Engineers can help build and deploy personal protective equipment (PPE) to arrest the spread of new diseases.
 
-They also can help build technolgies to reduce transmittion in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/)
+They also can help build technologies to reduce transmission in indoor spaces, such as [UV radiation](https://www.cdc.gov/niosh/ventilation/germicidal-ultraviolet/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fventilation%2Fuvgi.html) or [propylene glycol](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701621/)
 
 ## Resources to check out
 
