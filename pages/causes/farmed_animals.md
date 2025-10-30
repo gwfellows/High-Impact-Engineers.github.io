@@ -27,12 +27,12 @@ More speculatively, [gene editing could be used to improve animal welfare](https
 
 [A case that creating meat replacements is the most effective way to help animals](https://80000hours.org/podcast/episodes/bruce-friedrich-good-food-institute/)
 
-[80000 cause profile on factory farming](https://80000hours.org/problem-profiles/factory-farming/)
+[80,000 Hours cause profile on factory farming](https://80000hours.org/problem-profiles/factory-farming/)
 
-[The Good Food Institute, a think tank and working to accelerate alternative protein development](https://gfi.org/)
+[The Good Food Institute](https://gfi.org/), a think tank working to accelerate alternative protein development
 
-[Innovate Animal Ag, a think tank which has promoted In-Ovo sexing technology and other welfare-enhancing technology](https://innovateanimalag.org/)
+[Innovate Animal Ag, a think tank which has promoted in-ovo sexing and other welfare-enhancing technology](https://innovateanimalag.org/)
 
 [Profile on technical research for animal product alternatives](https://animaladvocacycareers.org/career-path-guides/animal-product-alternatives/)
 
-[Podcast Episode on Alternative Proteins](https://www.youtube.com/watch?v=A_KcxTN4l84&pp=0gcJCbAJAYcqIYzv)
+[Podcast episode on alternative proteins](https://www.youtube.com/watch?v=A_KcxTN4l84&pp=0gcJCbAJAYcqIYzv)
