@@ -29,3 +29,5 @@ Engineers can also assist in accelerating the development of new vaccines and tr
 [The Nucleic Acid Observatory](https://naobservatory.org/), an organization working on new disease surveillance methods
 
 [CEPI's 100 Days Mission](https://cepi.net/100-days), a global goal for rapid vaccine development
+
+[biosecurity.world](https://biosecurityworld.notion.site/24326cc06be04b34a48076a260482c7b?v=1335ef216bed477f930de7c35d5a36e9), a directory of organizations in the biosecurity space 
