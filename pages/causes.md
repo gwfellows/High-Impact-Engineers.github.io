@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cause Areas
+title: Cause areas
 permalink: /causes/
 stylesheet: /assets/css/podcast.css
 ---
