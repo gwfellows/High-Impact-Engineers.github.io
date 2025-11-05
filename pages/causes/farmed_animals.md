@@ -2,7 +2,7 @@
 layout: page
 title: Helping farmed animals
 permalink: /causes/farmed_animals/
-authors: Amanda Matthes, Grant Fellows
+authors: Grant Fellows
 ---
 
 ## Introduction

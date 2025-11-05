@@ -2,7 +2,7 @@
 layout: page
 title: Preparing for pandemics
 permalink: /causes/pandemics/
-authors: Amanda Matthes, Grant Fellows
+authors: Grant Fellows
 ---
 
 ## Introduction

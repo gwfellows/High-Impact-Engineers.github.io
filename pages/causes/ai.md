@@ -2,7 +2,7 @@
 layout: page
 title: AI Safety and Governance
 permalink: /causes/ai/
-authors: Amanda Matthes, Grant Fellows
+authors: Grant Fellows
 ---
 
 ## Introduction

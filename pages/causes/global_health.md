@@ -2,7 +2,7 @@
 layout: page
 title: Global health
 permalink: /causes/global_health/
-authors: Amanda Matthes, Grant Fellows
+authors: Grant Fellows
 ---
 
 ## Introduction
