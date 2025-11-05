@@ -5,8 +5,6 @@ permalink: /causes/nuclear_war/
 authors: Amanda Matthes, Grant Fellows
 ---
 
-🚧 under construction 🚧
-
 ## Introduction
 Nuclear war remains a pressing existential risk. A full US-Russia exchange could kill hundreds of millions directly, followed by [nuclear winter](https://en.wikipedia.org/wiki/Nuclear_winter) potentially causing billions of famine deaths. These risks are highlighted by recent escalations (e.g., Ukraine, Taiwan tensions) and the field is considered [neglected](https://www.givingwhatwecan.org/cause-areas/long-term-future/nuclear-security), especially in private philanthropy, by Giving What we Can.
 

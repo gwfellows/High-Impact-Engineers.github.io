@@ -5,8 +5,6 @@ permalink: /causes/pandemics/
 authors: Amanda Matthes, Grant Fellows
 ---
 
-🚧 under construction 🚧
-
 ## Introduction
 
 Pandemics can cause substantial suffering and death. A sufficiently deadly pandemic could decimate civilization. [Engineered pandemics](https://80000hours.org/problem-profiles/artificial-intelligence/#catastrophic-ai-misuse) are a growing risk as biotech tools become more accessible.

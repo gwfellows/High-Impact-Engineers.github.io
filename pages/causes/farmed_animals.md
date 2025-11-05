@@ -5,8 +5,6 @@ permalink: /causes/farmed_animals/
 authors: Amanda Matthes, Grant Fellows
 ---
 
-🚧 under construction 🚧
-
 ## Introduction
 
 Humans are outnumbered by non-human animals in factory farms. These animals suffer under [horrible conditions](https://80000hours.org/problem-profiles/factory-farming/#treatment).

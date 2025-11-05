@@ -5,8 +5,6 @@ permalink: /causes/ai/
 authors: Amanda Matthes, Grant Fellows
 ---
 
-🚧 under construction 🚧
-
 ## Introduction
 
 [Some experts](https://bluedot.org/blog/agi-timelines) think artificial general intelligence (AGI) could emerge as soon at 2030 due to rapid progress in compute, algorithms, and training techniques. This breakthrough could bring immense gains but also carries potentially [existential risks](https://80000hours.org/agi/#agi-could-bring-huge-benefits-but-poses-incredibly-serious-risks), including [misaligned](https://en.wikipedia.org/wiki/AI_alignment) power-seeking AI, catastrophic misuse such as bioweapons, extreme power concentration, and gradual human disempowerment. EA organizations like [80,000 Hours](https://80000hours.org/agi/) and the [Center for AI Safety](https://safe.ai/) argue these risks are neglected and urgent, making contributions to the field of AI safety high-impact.
